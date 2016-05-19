@@ -5,4 +5,4 @@ category: Services
 title: Easily embed live plots into your website<br>
 description: |
 ---
-  Simply put an SVG image using `<object >` for real-time live plot or `<img` for static image
+  Simply put an SVG image using `<object >` for real-time live plot or `<img` for static image, or just paste as website URL or an image URL in your favorite web editor. Wix, wordpress, and many others supported.
