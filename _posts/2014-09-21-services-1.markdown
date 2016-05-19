@@ -1,7 +1,7 @@
 ---
 layout: default
 category: Services
-title: Plot directly from websites<br>and web services
+title: Plot directly from websites<br>and online services
 description: |
 ---
   Continuously monitor using our hosted data extraction platform, configurable with a single click on the target number to track.
