@@ -1,8 +1,7 @@
 ---
 layout: default
-img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Plot directly from websites<br>and web services
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Continuously monitor using our hosted data extraction platform, configurable with a single click on the target number to track.
