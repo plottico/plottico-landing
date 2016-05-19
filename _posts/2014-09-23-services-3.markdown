@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Use the simplest possible APIs<br>to send updates or extract live data
+title: Use the simplest possible APIs<br>to send updates or receive live data
 description: |
 ---
-Browse the full integrations gallery at [doc.plotti.co](https://doc.plotti.co)
+Plot your server load, response time, or even temperature sensor readings from your Raspberry PI! Browse the full integrations gallery at [doc.plotti.co](https://doc.plotti.co)
