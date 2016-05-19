@@ -4,4 +4,4 @@ category: Services
 title: Plot directly from websites<br>and online services
 description: |
 ---
-  Continuously monitor using our hosted data extraction platform, configurable with a single click on the target number to track.
+  Continuously monitor your processes using our hosted data extraction platform, with zero configuration - just click on the target number to track.
