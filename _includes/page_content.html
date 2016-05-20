@@ -17,12 +17,17 @@
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                 {% if post.img %}
                     <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
-                {% else %}    
-                    <video width="600" height="420" autoplay loop style="display: block; margin: auto">
-                      <source src="https://doc.plotti.co/plottico-dashboards-beta/dash-fast.webm" type="video/webm" />
+                {% endif %}
+                {% if post.video %}    
+                    <video width="600" height="420" autoplay loop style="display: block; margin: auto; margin-top: 40px">
+                      <source src="{{ post.video }}.webm" type="video/webm" />
                       <source src="https://doc.plotti.co/plottico-dashboards-beta/dash-fast.mp4" type="video/mp4" />
                       Your browser does not support the video tag.
                     </video>
+                {% endif %}
+                {% if post.object %}
+                    <object data="https://plotti.co/plottycocpu" type="image/svg+xml"/><br/>
+                    <object data="https://plotti.co/1XwLVAaKYzRY" type="image/svg+xml"/>
                 {% endif %}
                 </div>
             </div>
