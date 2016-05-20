@@ -19,15 +19,15 @@
                     <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
                 {% endif %}
                 {% if post.video %}    
-                    <video width="600" height="420" autoplay loop style="display: block; margin: auto; margin-top: 40px">
+                    <video class="img-responsive" width="600" height="420" autoplay loop style="display: block; margin: auto; margin-top: 40px">
                       <source src="{{ post.video }}.webm" type="video/webm" />
                       <source src="https://doc.plotti.co/plottico-dashboards-beta/dash-fast.mp4" type="video/mp4" />
                       Your browser does not support the video tag.
                     </video>
                 {% endif %}
                 {% if post.object %}
-                    <object data="https://plotti.co/plottycocpu" type="image/svg+xml"/><br/>
-                    <object data="https://plotti.co/1XwLVAaKYzRY" type="image/svg+xml"/>
+                    <object data="https://plotti.co/plottycocpu/400x100.svg" type="image/svg+xml"></object>
+                    <object data="https://plotti.co/1XwLVAaKYzRY/400x100.svg" type="image/svg+xml"></object>
                 {% endif %}
                 </div>
             </div>
@@ -51,7 +51,23 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                  {% if post.img %}
+                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                {% endif %}
+                {% if post.video %}    
+                    <video class="img-responsive" width="600" height="420" autoplay loop style="display: block; margin: auto; margin-top: 40px">
+                      <source src="{{ post.video }}.webm" type="video/webm" />
+                      <source src="https://doc.plotti.co/plottico-dashboards-beta/dash-fast.mp4" type="video/mp4" />
+                      Your browser does not support the video tag.
+                    </video>
+                {% endif %}
+                {% if post.object %}
+                <br/>
+                    Plottico CPU Load, 1s update using API<br/>
+                    <object data="https://plotti.co/plottycocpu/400x120.svg" type="image/svg+xml"></object><br/>
+                    StarCraft II viewers, 5min update using Web Tracker<br/>
+                    <object data="https://plotti.co/1XwLVAaKYzRY/400x120.svg" type="image/svg+xml"></object>
+                {% endif %}
                 </div>
             </div>
 
