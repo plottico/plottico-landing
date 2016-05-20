@@ -5,6 +5,6 @@ title: Plot directly from websites<br>and online services
 video: https://doc.plotti.co/plottico-dashboards-beta/dash-fast
 description: |
 ---
-  Continuously monitor your processes using our hosted data extraction platform, with zero configuration - just click on the target number to track.
+  Continuously monitor your processes using our hosted data extraction platform, with zero configuration - just click on the target number to track. Services with logins supported.
   
   Set `alerts` and download raw data in `CSV` from easy-to-use web interface.
