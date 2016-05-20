@@ -8,8 +8,8 @@ email: ag@vrayo.com
 author: Plottico
 description: > # "Write an awesome description for your new site here. 
   Announcing private beta for Plottico Dashboards - your personal zero-effort mission control center.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: 'Copyright &copy; 2016 Vrayo Systems Ltd. All Rights Reserved.'
+credits: 'Plottico is a beta quality product and comes with no warranty. For more information please send your requests to <a href="mailto:info@vrayo.com">info@vrayo.com</a> or call +1(650)388-9499'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -29,4 +29,4 @@ social:
   - title: github
     url: https://github.com/grandrew/plotti.co
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/grandrew
