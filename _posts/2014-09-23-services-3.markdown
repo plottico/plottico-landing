@@ -5,4 +5,4 @@ category: Services
 title: Use the simplest possible APIs<br>to send updates or receive live data
 description: |
 ---
-Plot your server load, response time, or integrate with your database. Compatible with python, bash, js, or any http-capable system. Browse the full integrations gallery at [doc.plotti.co](https://doc.plotti.co).
+Plot your server load, response time, or integrate with your database. Compatible with `python`, `bash`, `js`, or any http-capable system. Browse the full integrations gallery at [doc.plotti.co](https://doc.plotti.co).

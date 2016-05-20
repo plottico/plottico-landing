@@ -7,4 +7,4 @@ description: |
 ---
   Continuously monitor your processes using our hosted data extraction platform, with zero configuration - just click on the target number to track.
   
-  Set alerts and download raw data in CSV from easy-to-use web interface.
+  Set `alerts` and download raw data in `CSV` from easy-to-use web interface.
