@@ -2,7 +2,7 @@
 layout: default
 img: api_simple1.png
 category: Services
-title: Use the simplest possible APIs<br>to send updates or receive live data
+title: And yes, you can use APIs<br>And we made it simple
 description: |
 ---
-Plot your server load, response time, or integrate with your database. Compatible with `python`, `bash`, `js`, or any http-capable system. Browse the full integrations gallery at [doc.plotti.co](https://doc.plotti.co).
+Plot your server load, response time, or integrate with your database, or get real-time data from dashboard. Compatible with `python`, `bash`, `js`, and any http-capable system. Browse the full integrations gallery at [doc.plotti.co](https://doc.plotti.co).
