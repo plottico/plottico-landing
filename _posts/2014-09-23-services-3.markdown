@@ -5,4 +5,4 @@ category: Services
 title: And yes, you can use APIs<br>And we made it simple
 description: |
 ---
-Plot your server load, response time, or integrate with your database, or get real-time data from dashboard. Compatible with `python`, `bash`, `js`, and any http-capable system. Browse the full integrations gallery at [doc.plotti.co](https://doc.plotti.co).
+Plot your server load, response time, integrate with your database, or get real-time data from dashboard. Compatible with `python`, `bash`, `js`, and any http-capable system. Browse the full integrations gallery at [doc.plotti.co](https://doc.plotti.co).
