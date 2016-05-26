@@ -1,7 +1,7 @@
 ---
 layout: default
 category: Services
-title: Easily embed live plots into your website<br>
+title: Easily embed live plots into your website or portal<br>
 object: true
 description: |
 ---
