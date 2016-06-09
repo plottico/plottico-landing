@@ -1,8 +1,0 @@
----
-layout: default
-category: Services
-title: Easily embed live plots into your website or portal<br>
-object: true
-description: |
----
-  Wordpress, wix, and many others supported. Just paste as embed website URL or an image URL in your favorite web editor. Or simply place an SVG image using `<object>` for real-time live plot or `<img>` for static image. You can find more [here](https://plotti.co).

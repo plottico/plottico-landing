@@ -9,3 +9,34 @@
 
 <!-- Custom Theme JavaScript -->
 <script src="js/landing-page.js"></script>
+
+    <script>
+    jQuery(document).ready(function($) {
+/* OUR TEAM PAGE */
+$('.team-text .close').click(function () {
+   $(this).parent('.team-text').hide();
+	$('img').removeAttr('style');
+	$('.bio-button').removeAttr('style');
+});
+
+$('.team-member .team-photo, .team-member .bio-button, .team-member-minor .team-photo, .team-member-minor .bio-button').on('click', function(){
+    $(this).find('.team-text:visible').fadeOut();
+    $('.bio-button').removeAttr('style');
+});
+
+$('.team-photo, .bio-button').on('click', function () {
+    $('.team-text').hide();
+    $(this).prevAll('.team-text:hidden').fadeIn();
+	$('img').removeAttr('style');
+	$('.bio-button').removeAttr('style');
+	$(this).find('img').css({opacity:1});
+	$(this).next('.bio-button').css({opacity:'0.5'});
+});
+
+
+$('.bio-button').on('click', function () {
+	$(this).parent('img').css({opacity:1});
+});
+
+});
+    </script>

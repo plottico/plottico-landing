@@ -2,14 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://doc.plotti.co/plottico-tracker
-title: Plottico Tracker Beta
+url: https://plotti.co
+title: Plottico Beta
 email: ag@plotti.co
 author: Plottico
 description: > # "Write an awesome description for your new site here. 
   Announcing private beta for Plottico Tracker - your personal zero-effort dynamic data extraction.
-copyright: 'Copyright &copy; 2016 Vrayo Systems Ltd. All Rights Reserved.'
-credits: 'Plottico is a beta quality product and comes with no warranty. For more information please send your requests to <a href="mailto:info@vrayo.com">info@vrayo.com</a> or call +1(650)388-9499'
+copyright: 'Copyright &copy; 2016 Plottico Inc. All Rights Reserved.'
+credits: 'Plottico is a beta quality product and comes with no warranty. For more information please send your requests to <a href="mailto:info@vrayo.com">ag@plotti.co</a> or call +1(650)388-9499'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
