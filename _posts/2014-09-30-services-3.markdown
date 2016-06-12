@@ -1,0 +1,8 @@
+---
+layout: default
+img: api_simple1.png
+category: Services
+title: And yes, you can use APIs<br>And we made it simple
+description: |
+---
+With simplest possible GET-based API you can plot your server load, response time, integrate with your database, or get real-time data back from dashboard. Compatible with `python`, `bash`, `js`, and any http-capable system. Browse the full integrations gallery at [doc.plotti.co](https://doc.plotti.co).

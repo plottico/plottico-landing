@@ -1,0 +1,8 @@
+---
+layout: default
+img: api_simple1.png
+category: Services
+title: Live plotting that just works
+description: |
+---
+Plottico is built on top of a [microservice](https://en.wikipedia.org/wiki/Microservices) that generates live-streaming SVG-image plots to be embedded as an `<object>` or `<img>` tag. To include a live plot on your webpage, you just need to put in an SVG image: `<object data="http://plotti.co/YOUR_HASH.svg" type="image/svg+xml"/>` where `YOUR_HASH.svg` is an identifier of your stream. Feeding data is just a simple GET to the same hash with an argument `d`: `http://plotti.co/YOUR_HASH.svg?d=<value>`. The service is free. Full docs are [here](http://doc.plotti.co/plottico-embed/).
