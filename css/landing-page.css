@@ -440,13 +440,13 @@ div.desc {
     top: 7px;
 }
 
-@media (max-width: 1300px) and (min-width: 320px){
+@media (max-width: 1300px) and (min-width: 320px) {
     .plan {
-        float:none;
+        float: none;
     }
     .pricing-table {
         margin: 50px auto;
-        width: 800px;
+        width: 300px;
     }
     .plan {
         width: 75%;
