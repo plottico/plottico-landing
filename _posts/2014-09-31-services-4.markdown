@@ -1,6 +1,6 @@
 ---
 layout: default
-img: api_simple1.png
+img: just_works.png
 category: Services
 title: Live plotting that just works
 description: |
