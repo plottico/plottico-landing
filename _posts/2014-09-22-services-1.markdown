@@ -5,4 +5,4 @@ title: Integrate with Tableau Web Data Connector or export CSV
 img: data_connector.png
 description: |
 ---
-  Integrate with Tableau Desktop or Tableau Server by using Web Data Connector - just copy and paste the `Tableau WDC` link from Plottico interface into your Web Data Connector dialog - everything will be set up automatically.
+  Integrate with Tableau Desktop or Tableau Server by using Web Data Connector - just copy and paste the `Tableau WDC` link from Plottico interface into your Web Data Connector dialog - everything will be set up automatically. Please find instructions [here](https://community.tableau.com/message/500243).
